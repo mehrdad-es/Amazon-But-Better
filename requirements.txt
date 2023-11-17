@@ -1,0 +1,5 @@
+langchain
+chromadb
+cohere
+gradio
+tqdm
