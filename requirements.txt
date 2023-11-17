@@ -3,3 +3,6 @@ chromadb
 cohere
 gradio
 tqdm
+selenium
+ipykernel
+notebook
