@@ -1,5 +1,5 @@
 ## Intro
-Amazon started out with selling books. However, searching books on Amazon is tedious and inaccurate if you don't know what you are exactly looking for. **Why not make it faster and easier with LLMs:)**. This chatbot's context is based on all the Kindle ebooks found in the biography section of amazon.ca .
+Amazon started out with selling books. However, searching books on Amazon is tedious and inaccurate if you don't know what you are exactly looking for. **Why not make it faster and easier with LLMs:)**. This chatbot's context is based on all the non-sponsored Kindle ebooks found in the biography section of amazon.ca (1195 items).
 
 **check out the FREE chatbot here:** https://huggingface.co/spaces/mehrdad-es/Amazon-But-Better
 
